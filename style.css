@@ -17,3 +17,7 @@ section#featured-property {
 section#details {
   background-color: red
 }
+
+h3 {
+  column-gap: normal;
+}
