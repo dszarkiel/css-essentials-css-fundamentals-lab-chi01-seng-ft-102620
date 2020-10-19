@@ -14,7 +14,7 @@ section#featured-property {
   width: 50%
 }
 
-section#details {
+div {
   background-color: red;
   column-count: 4;
   text-align: center;
