@@ -14,7 +14,7 @@ header a {
 }
 
 section#featured-property {
-  margin: auto;
+  margin: 50%;
   width: 50%;
   text-align: center;
 }
