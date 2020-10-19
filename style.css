@@ -13,10 +13,6 @@ header a {
   padding: 10px
 }
 
-section#featured-property p {
-  width: 800px
-}
-
 section#featured-property {
   margin: auto;
   width: 50%;
