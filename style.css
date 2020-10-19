@@ -9,5 +9,6 @@ header {
 }
 
 section id="featured-property" {
-  margin: auto
+  margin: auto;
+  width: 50%
 }
