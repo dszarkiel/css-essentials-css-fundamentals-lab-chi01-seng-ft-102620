@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-a {
+a#header {
   background-color: grey;
   padding: 10px
 }
