@@ -13,3 +13,7 @@ section#featured-property {
   margin: auto;
   width: 50%
 }
+
+section#details {
+  color: red
+}
