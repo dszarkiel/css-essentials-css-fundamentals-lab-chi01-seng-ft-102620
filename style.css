@@ -9,7 +9,8 @@ header {
 }
 
 a {
-  background-color: grey
+  background-color: grey;
+  padding: 10px
 }
 
 section#featured-property {
