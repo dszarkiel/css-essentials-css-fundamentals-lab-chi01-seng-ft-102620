@@ -21,12 +21,10 @@ img {
 }
 
 section#featured-property {
+  margin: auto;
   text-align: center;
-  width: 25%;
-}
-
-section#featured-property p {
-  font-size: 14px
+  width: 50%;
+  
 }
 
 section#details {
