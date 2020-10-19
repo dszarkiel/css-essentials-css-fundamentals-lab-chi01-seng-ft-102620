@@ -29,10 +29,8 @@ section#featured-property {
 }
 
 section#details {
-  display: block;
   background-color: red;
-}
-
-section#details div {
-  float: left;
+  column-count: 4;
+  text-align: center;
+  display: run-in;
 }
