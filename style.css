@@ -16,6 +16,7 @@ section#featured-property {
 
 div {
   background-color: red;
+  column-count: 4;
   text-align: center;
 }
 
