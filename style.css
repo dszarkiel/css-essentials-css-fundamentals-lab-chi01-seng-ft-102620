@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-section {
+section#featured-property {
   margin: auto;
   width: 50%
 }
