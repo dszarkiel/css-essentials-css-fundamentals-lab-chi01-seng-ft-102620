@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+a {
+  background-color: grey
+}
+
 section#featured-property {
   text-align: center;
   margin: auto;
@@ -19,8 +23,4 @@ section#details {
   column-count: 4;
   text-align: center;
   display: run-in;
-}
-
-h3 {
-  text-align: center;
 }
