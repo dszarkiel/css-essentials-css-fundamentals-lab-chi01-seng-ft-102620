@@ -29,6 +29,7 @@ section#featured-property {
 }
 
 section#details {
+  display: block;
   background-color: red;
   float: left
 }
