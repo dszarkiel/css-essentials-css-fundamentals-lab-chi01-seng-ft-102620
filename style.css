@@ -19,5 +19,5 @@ section#details {
 }
 
 h3 {
-  column-gap: normal;
+  column-count: 3
 }
