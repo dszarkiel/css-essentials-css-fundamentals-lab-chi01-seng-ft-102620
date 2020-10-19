@@ -14,10 +14,11 @@ section#featured-property {
   width: 50%
 }
 
-div {
+section#details {
   background-color: red;
   column-count: 4;
   text-align: center;
+  display: run-in;
 }
 
 h3 {
