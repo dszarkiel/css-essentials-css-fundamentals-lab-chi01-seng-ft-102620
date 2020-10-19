@@ -15,7 +15,8 @@ section#featured-property {
 }
 
 section#details {
-  background-color: red
+  background-color: red;
+  column-count: 4
 }
 
 h3 {
