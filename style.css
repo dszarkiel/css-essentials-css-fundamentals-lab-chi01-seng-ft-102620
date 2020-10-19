@@ -17,8 +17,5 @@ section#featured-property {
 section#details {
   background-color: red;
   column-count: 4;
-}
-
-h3 {
   text-align: center;
 }
